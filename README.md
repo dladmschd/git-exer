@@ -6,3 +6,4 @@ commit 1
 # git-exer
 
 add 2
+그냥 커밋하기
